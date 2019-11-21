@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.paradiso.views.MovieDetailActivity">
+    <item
+        android:id="@+id/action_favorite"
+        android:orderInCategory="100"
+        android:icon="@drawable/filled_star"
+        android:title="favorite"
+        app:showAsAction="always" />
+</menu>
