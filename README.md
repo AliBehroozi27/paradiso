@@ -1,3 +1,3 @@
-<T1>Paradiso</T1>
+Paradiso
 
 a movie app which shows the trending movies with ability of choosing favorites.
