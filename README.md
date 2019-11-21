@@ -8,6 +8,6 @@
 
 - *paradiso* uses **_Room Presistance_** for caching favorite movies.
 
-- *paradiso* uses **_Retrofit_** to get movies from [OMDB](http://www.omdbapi.com/).
+- *paradiso* uses **_Retrofit_** to get movies from [OMDB](http://www.omdbapi.com/) api.
 
 
